@@ -13,7 +13,7 @@ module testAdder4; // Testbench module
 
     initial
         begin
-            //initi ali zation of addend_array
+            //initialization of addend_array
             addend_array[1] =  4'b0111;
             addend_array[2] =  4'b1101;
             addend_array[3] =  4'b0101;
